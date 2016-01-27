@@ -5,4 +5,4 @@
 
 3.hosts: one key update hosts file, help you interview google
 
-test1
+test2
